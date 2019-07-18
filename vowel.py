@@ -1,7 +1,7 @@
-S=input()
-if(S=="a" or S=="e" or S=="i" or S=="u" or S=="o"):
+Se=input()
+if(Se=="a" or Se=="e" or Se=="i" or Se=="u" or Se=="o"):
    Print("Vowel")
-elif:
+elif(Se!="y")
    print("Consonant")
 else:
    print("Invalid")
